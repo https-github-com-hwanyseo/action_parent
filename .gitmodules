@@ -1,0 +1,3 @@
+[submodule "action_submodule"]
+	path = action_submodule
+	url = git@github.com:https-github-com-hwanyseo/action_submodule.git
